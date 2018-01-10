@@ -2,9 +2,10 @@
 int main()
 {
 char str[100];
-int countdigits,countspecialcharacters,countspace;
+int countdigits,countnumeric,countspace;
 int counter;
-countdigits=countspecialcharacters=countspace=0;
-printf("hello world.123')
-
+countdigits=countnumeric=countspace=0;
+printf("hello world.123');
+       }
+       for 
   
