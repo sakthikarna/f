@@ -17,10 +17,10 @@ void main()
     }
     if(n==count)
     {
-        printf("the given character is palingdrome");
+        printf("yes");
     }
     else
     {
-        printf("the given character is not palingdrome");
+        printf("no");
     }
 }
